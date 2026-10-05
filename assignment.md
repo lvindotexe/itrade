@@ -87,9 +87,47 @@ You might run into other open questions during the design process – that is us
 
 The purpose of the flowchart and the pseudocode is to give an easy-to-interpret overview of your algorithm. Therefore, while you must include every step which is relevant to the stock recommendation process, you do not need to include steps which are specific to the programming language, for example the way you read your dataset files into your Python program. In these tasks, the goal is to have a reproducible representation of your algorithm that could be implemented in any programming language.
 
-## Notes on the report
+## Report requirements
 
-For the project report, you will need to follow the template provided to you on Canvas. In the report, you will complete the Context Task, report on the design process, and provide your flowchart, pseudocode, and Python code if you go for the bonus points. There is no strict word count limit. For the Context Task, you should aim for at least 200-300 words, while describing the design process will probably be longer. The most important thing is that you give a well-rounded description of your thought process and explain any important decisions that you made along the way. Importantly, please reflect on the work division within the group at the end of the design process section.
+Write the report in **MS Word using the Canvas template**. There is no strict overall word limit; keep the Context Task to **200–300 words**. Include:
+
+- **Group details:** all members’ names and the group number.
+- **Problem:** what iTrade must solve, including its inputs and expected output.
+- **Approach:** the algorithms, solution strategies, and tools you used. Explain and justify your design choices, including how you resolved the open questions above.
+- **Challenges and solutions:** problems you encountered, how you addressed them, and which strategies or algorithms helped.
+- **Deliverables:** the Context Task with at least three properly cited references, the flowchart, and pseudocode. Include Python code only if attempting the optional bonus.
+- **Teamwork and time:** how you divided tasks, who actually did what, and an estimate of time spent solving the problem. End the design process section with a reflection on the work division.
+
+## Presentation requirements — maximum 10 minutes
+
+Present your solution to your peers. A simple structure is:
+
+1. **Team and problem (~1 minute):** introduce the members, their contributions, and the problem you are solving.
+2. **Approach (~4 minutes):** explain the solution strategies and algorithms, using the flowchart and a small example to make the steps clear.
+3. **Challenges and solutions (~2 minutes):** discuss problems you encountered and how you addressed them.
+4. **Result (~2 minutes):** show your solution, if you found one. If it is incomplete, explain what works and what remains unresolved.
+
+Rehearse together and aim for **9 minutes** to leave a buffer. A Python implementation is optional, so you can demonstrate the algorithm with a worked example instead.
+
+## How to aim higher
+
+The course pays particular attention to **algorithm efficiency, teamwork, applying course concepts, and creativity**. Beyond meeting the checklists above:
+
+- **Explain why, not just what:** connect your choices to concepts learned in class and compare reasonable alternatives.
+- **Discuss efficiency:** explain where the algorithm does most of its work and how you avoid unnecessary steps.
+- **Check your solution:** use examples covering normal input, combined filters, ties, and too few or zero matching stocks. Keep the flowchart, pseudocode, and any code consistent.
+- **Show thoughtful creativity:** justify your industry and ESG rules; extra complexity is not automatically better.
+- **Reflect honestly:** describe what worked in the group and what you would improve.
+
+These are practical ways to strengthen the project, not a replacement for the Canvas **“Grading scheme for project”**. Check that scheme for detailed assessment criteria.
+
+## Working together
+
+- Agree on task owners, deadlines, and how you will stay in touch.
+- Keep a shared log of **who did what and roughly how long it took**.
+- Discuss progress regularly and use a schedule with time for checking and rehearsal.
+- Choose simple shared tools: for example, WhatsApp or Discord for communication, and Google Docs, OneDrive, Dropbox, or GitHub for shared work.
+- Use algorithms taught in the course where suitable; design your own where the assignment leaves room, and explain your reasoning.
 
 ## Practical notes and tips
 
